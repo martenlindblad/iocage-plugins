@@ -8,7 +8,7 @@
   "pkgs": [
     "shells/bash",
     "security/ca_root_nss",
-    "java/openjdk11"
+    "java/openjdk8"
   ],
   "packagesite": "http://pkg.FreeBSD.org/FreeBSD:12:amd64/quarterly",
   "fingerprints": {
